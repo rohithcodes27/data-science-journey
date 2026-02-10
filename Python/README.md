@@ -1,13 +1,13 @@
 # Python Practice
 
-This folder contains my python learning notebooks and excercises.
+This folder contains my python learning files for Data Science.
 
 ## Topics 
-- Basics & Data Types
-- Loopa & Functions
-- NumPy
-- Pandas
+- Python basics
+- Variables & data types
+- Loops & conditions
+- Lists & dictionaries
 - Data Analysis
 
 ## Goal
-To use python effectively for Data Science and Analytics.
+To build strong Python foundation for Data  Analysis and ML.
