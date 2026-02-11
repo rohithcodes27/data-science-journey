@@ -21,3 +21,9 @@ ORDER BY salary DESC;
 SELECT department, COUNT(*) AS employee_count
 FROM employees
 GROUP BY department;
+
+-- 6. AND, ORDER BY
+SELECT name, salary
+FROM employees
+WHERE salary > 30000 AND department = 'IT'
+ORDER BY salary DESC;
