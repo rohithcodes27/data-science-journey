@@ -17,3 +17,12 @@ print(name_marks)
 high_scores = df[df["Marks"] > 80]
 print("\nStudents with Marks > 80:")
 print(high_scorers)
+
+# Mean of Marks
+print("Mean Marks:", df["Marks"].mean())
+
+# Median of Marks 
+print("Median Marks:", df["Marks"].median())
+
+# Standard Deviation
+print("Standard  Deviation:", df["Marks"].std())
